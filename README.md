@@ -2,6 +2,20 @@
 
 ###
 
+<div align="left">
+</div>
+
+###
+
+<img align="right" height="195" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjA2cHdib29wd3M2eDlpNWVseWF3YjJkOG50OWpkMXg0cngxZTJ5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
+
+###
+
+<p align="left">Hello World!!<br>.<br>.<br>.<br>.<br>.<br>.<br>.</p>
+
+###
+
+
 <br clear="both">
 
 <div align="center">
@@ -65,19 +79,6 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
 </div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<img align="right" height="195" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjA2cHdib29wd3M2eDlpNWVseWF3YjJkOG50OWpkMXg0cngxZTJ5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
-
-###
-
-<p align="left">Hello World!!<br>.<br>.<br>.<br>.<br>.<br>.<br>.</p>
 
 ###
 
