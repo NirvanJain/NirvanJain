@@ -97,7 +97,7 @@
 
 ###
 
-## 🎧 Music History
+## 🎧 Recently Played
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lenipdu5hkj3kdbfugzbjcncpm&count=5&unique=true" />
