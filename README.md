@@ -108,19 +108,6 @@
 
 ## 💻 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NirvanJain/NirvanJain/output/pacman.svg" />
-</p>
-
-###
-
-
-
-
-
-
-
-
 <div align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </div>
