@@ -97,20 +97,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NirvanJain&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150" />
-<br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirvanJain&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=NirvanJain&theme=tokyonight&hide_border=true" height="150" />
-</div>
-
-###
-
-## 📊 GitHub Stats
-
-<div align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NirvanJain&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150"/>
 
