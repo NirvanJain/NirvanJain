@@ -108,6 +108,15 @@
 
 ###
 
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=NirvanJain&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NirvanJain&layout=compact&theme=tokyonight&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=NirvanJain&theme=tokyonight&hide_border=true)
+###
+
 ## 🎧 Recently Played
 
 <div align="center">
