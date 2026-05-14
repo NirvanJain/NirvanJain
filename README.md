@@ -110,11 +110,16 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=NirvanJain&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NirvanJain&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NirvanJain&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150"/>
 
-![](https://streak-stats.demolab.com?user=NirvanJain&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NirvanJain&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+<img src="https://streak-stats.demolab.com?user=NirvanJain&theme=tokyonight&hide_border=true" height="150"/>
+
+</div>
+
 ###
 
 ## 🎧 Recently Played
