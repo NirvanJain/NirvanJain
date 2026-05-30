@@ -10,7 +10,7 @@
 <img align="right" height="195" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjA2cHdib29wd3M2eDlpNWVseWF3YjJkOG50OWpkMXg0cngxZTJ5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
 
 ###
-<h3 align="left">Hello World!! 👋</h3>
+<h3 align="left">Hello World! 👋</h3>
 
 <p align="left">
 I’m a first-year Computer Science student at LPU (Software Product Engineering with Kalvium), passionate about technology, problem-solving, and building meaningful digital products.<br><br>
