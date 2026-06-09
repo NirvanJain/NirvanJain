@@ -12,10 +12,10 @@
 ###
 <h3 align="left">Hello World! 👋</h3>
 
-<p align="left">
-I’m a first-year Computer Science student at LPU (Software Product Engineering with Kalvium), passionate about technology, problem-solving, and building meaningful digital products.<br><br>
+<p align="left">Brainrot-driven builder exploring system design, Web3, distributed systems, and whatever tech rabbit hole looks interesting at 2 AM. Always curious about how things work under the hood and constantly chasing the next thing to learn.
+<br>
+Open source contributor, occasional bug creator, frequent bug fixer. Turning random ideas into projects, collecting tech stacks like Pokémon, and enjoying the journey of building, breaking, and improving software.
 
-Currently exploring software development, web technologies, and system design while continuously learning how real-world tech works. I enjoy experimenting with new ideas, improving my skills, and discovering the areas of tech that excite me the most.
 </p>
 
 ###
