@@ -108,12 +108,3 @@ Open source contributor, occasional bug creator, frequent bug fixer. Turning ran
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lenipdu5hkj3kdbfugzbjcncpm&count=5&unique=true" />
 </div>
-
-
-###
-
-## 💻 Contribution Graph
-
-<div align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
-</div>
