@@ -89,21 +89,6 @@ Open source contributor, occasional bug creator, frequent bug fixer. Turning ran
 
 ###
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NirvanJain&show_icons=true&theme=gotham&hide_border=true&rank_icon=github" height="150"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirvanJain&layout=compact&theme=gotham&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NirvanJain&theme=gotham&hide_border=true" height="150"/>
-</p>
-
-
-###
-
 ## 🎧 Recently Played
 
 <div align="center">
