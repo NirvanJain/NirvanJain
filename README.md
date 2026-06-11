@@ -97,7 +97,11 @@ Open source contributor, occasional bug creator, frequent bug fixer. Turning ran
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NirvanJain&layout=compact&theme=gotham&hide_border=true" height="150"/>
 
-<img src="https://streak-stats.demolab.com?user=NirvanJain&theme=gotham&hide_border=true" height="150"/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=NirvanJain&theme=gotham&hide_border=true" alt="GitHub Streak" height="150" />
+</a>
+
 
 </div>
 
