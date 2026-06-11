@@ -91,19 +91,16 @@ Open source contributor, occasional bug creator, frequent bug fixer. Turning ran
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NirvanJain&show_icons=true&theme=gotham&hide_border=true&rank_icon=github" height="150"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NirvanJain&show_icons=true&theme=gotham&hide_border=true&rank_icon=github" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirvanJain&layout=compact&theme=gotham&hide_border=true" height="150"/>
+</p>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NirvanJain&layout=compact&theme=gotham&hide_border=true" height="150"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NirvanJain&theme=gotham&hide_border=true" height="150"/>
+</p>
 
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=NirvanJain&theme=gotham&hide_border=true" alt="GitHub Streak" height="150" />
-</a>
-
-
-</div>
 
 ###
 
