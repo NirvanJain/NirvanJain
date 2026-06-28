@@ -80,5 +80,5 @@ Open source contributor, occasional bug creator, frequent bug fixer. Turning ran
 ## 🎧 Recently Played
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lenipdu5hkj3kdbfugzbjcncpm&count=5&unique=true" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lenipdu5hkj3kdbfugzbjcncpm&count=3&unique=true" />
 </div>
