@@ -10,7 +10,7 @@
 <img align="right" height="195" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjA2cHdib29wd3M2eDlpNWVseWF3YjJkOG50OWpkMXg0cngxZTJ5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
 
 ###
-<h3 align="left">Hello World</h3>
+<h3 align="left">I am a </h3>
 
 <p align="left">Brainrot-driven builder exploring system design, Web3, distributed systems, and whatever tech rabbit hole looks interesting at 2 AM. Always curious about how things work under the hood and constantly chasing the next thing to learn..
 <br><br>
