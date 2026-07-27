@@ -16,10 +16,3 @@
 Open source contributor, occasional bug creator, frequent bug fixer. Turning random ideas into projects, collecting tech stacks like Pokémon, and enjoying the journey of building, breaking, and improving software.
 
 </p>
-
-
-## 🎧 Recently Played
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lenipdu5hkj3kdbfugzbjcncpm&count=3&unique=true" />
-</div>
