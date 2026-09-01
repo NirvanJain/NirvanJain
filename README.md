@@ -13,7 +13,7 @@
 
 <p >I am a brainrot-driven builder exploring system design, Web3, distributed systems, and whatever tech rabbit hole looks interesting at 2 AM. Always curious about how things work under the hood and constantly chasing the next thing to learn.   
 <br><br>
-Open source contributor, occasional bug creator, frequent bug fixer. Turning random ideas into projects, collecting tech stacks like Pokémon, and enjoying the journey of building, breaking, and improving software.
+Open source contributor, occasional bug creator, frequent bug fixer.     Turning random ideas into projects, collecting tech stacks like Pokémon, and enjoying the journey of building, breaking, and improving software.
 
 </p>
 
